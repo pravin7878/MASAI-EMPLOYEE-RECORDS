@@ -21,7 +21,7 @@ div>form>input{
     padding-left: 40px;
     padding-right: 40px;
     font-size: 20px;
-    width: 500px;
+    width: 350px;
     padding-top: 6px;
     padding-bottom: 6px;
     text-align: center; 
@@ -42,7 +42,7 @@ div>form>select{
     font-size: 20px;
 }
 div>form>#btn{
-    width: 550px;
+    width: 400px;
     background-color: rgb(17, 0, 255);
     color: aliceblue;
     font-weight: bold;
@@ -66,6 +66,6 @@ div>table>thead{
    font-size:24px ; 
 }
 div>table>tbody{
-   font-size: 25px;
+   font-size: 16px;
    text-align: center;
 }
